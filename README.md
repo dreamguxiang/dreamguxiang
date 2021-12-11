@@ -1,6 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=dreamguxiang&fontSize=60)
-
-Designed by [GamerNoTitle](https://github.com/GamerNoTitle/GamerNoTitle/blob/master/README.md)
+![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=DreamGuXiang&fontSize=60)
 
 ---
 #### Statistical data
